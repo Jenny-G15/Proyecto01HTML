@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*BARRA DE NAVEGACION*/
+.encabezado{
+     padding-left: 30px;
+     margin: 2%;
+
+
+}
+#ruta{
+   width: 103px;
+   height: 49px;
+   padding-left: 100px;
+
+}
+
+#logo{
+    width: 350px;
+    height: 80px;
+}
+
+#buscar{
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: -0.25px;
+    margin-left: 800px;
+    height: 20px;
+    width: 350px;
+    font-family: 'inter' , sans-serif;
+    
+
+
+}
+.REDES{
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+/*BARRA DE NAVEGACION*/
+
+/*INICIO*/
+
+/*INICIO*/
